@@ -1,1 +1,28 @@
-test
+# NGUYEN DINH BAO aka Vani <3
+==================
+
+Love turning ideas into working products.  
+Currently building useful things for developers and communities.
+
+---------------
+Connect With Me
+
+» X / Twitter   → https://x.com/vanixjnk
+» Email         → vanixjnk@gmail.com
+
+--------------
+Skills & Tools
+
+» Backend:   Node.js, Express.js, Java, Spring Boot
+» Frontend:  Next.js, React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS
+» Databases: MySQL, MongoDB, Redis, Firebase, Supabase, Cloudinary
+» DevOps:    Docker, Git, Linux, Postman, C, C++
+
+-----------------
+Featured Projects
+--------------------------
+Thanks for stopping by! :)
+
+Feel free to say hi, share ideas, or just grab a virtual coffee ☕︎
+
+Let's build something cool together <3
